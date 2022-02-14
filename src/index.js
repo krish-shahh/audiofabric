@@ -52,7 +52,8 @@ const renderBloom = createRenderBloom(regl, canvas)
 const renderBlur = createRenderBlur(regl)
 
 const tracks = [
-  {title: 'Wants and Needs', artist: 'Drake and Lil Baby', path: 'src/audio/wants-and-needs.mp3'},  
+  {title: 'Wants and Needs', artist: 'Drake and Lil Baby', path: 'src/audio/wants-and-needs.mp3'}, 
+  {title: 'Turks', artist: 'NAV, Gunna, Travis Scott', path: 'src/audio/turks.mp3'},
   {title: 'Power', artist: 'Kanye West', path: 'src/audio/power.mp3'},
   {title: '715 - CRΣΣKS', artist: 'Bon Iver', path: 'src/audio/715-creeks.mp3'},
   {title: 'Lost It To Trying', artist: 'Son Lux', path: 'src/audio/lost-it-to-trying.mp3'}
