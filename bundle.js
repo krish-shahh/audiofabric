@@ -20725,8 +20725,6 @@ const tracks = [
   {title: 'Turks', artist: 'NAV, Gunna, Travis Scott', path: 'src/audio/turks.mp3'},
   {title: 'Whats Poppin', artist: 'Jack Harlow', path: 'src/audio/whats-poppin.mp3'},
   {title: 'Power', artist: 'Kanye West', path: 'src/audio/power.mp3'},
-  {title: '715 - CRΣΣKS', artist: 'Bon Iver', path: 'src/audio/715-creeks.mp3'},
-  {title: 'Lost It To Trying', artist: 'Son Lux', path: 'src/audio/lost-it-to-trying.mp3'}
 ]
 
 const audio = createPlayer(tracks[0].path)
